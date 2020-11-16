@@ -1,0 +1,6 @@
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\bin\Debug\XALIB.dll
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\bin\Debug\XALIB.pdb
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\obj\Debug\XALIB.csprojAssemblyReference.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\obj\Debug\XALIB.csproj.CoreCompileInputs.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\obj\Debug\XALIB.dll
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\XALIB\obj\Debug\XALIB.pdb
